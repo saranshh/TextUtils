@@ -1,0 +1,17 @@
+.form-group {
+background-color: white;
+background-image: url("https://www.transparenttextures.com/patterns/dark-dotted-2.png");
+}
+.btn-primary {
+    border-radius: 4px !important;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 25px !important;
+}
+.btn-primary {
+    background-color: #0566b6 !important;
+}
+button{
+    font-size: 25px !important;
+}
